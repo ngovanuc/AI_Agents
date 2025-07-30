@@ -3,6 +3,8 @@
 These notebooks are recorded for educational purposes and are the property of the author, not mine. For copyright issues please contact me.
 
 Author: **Vipra Singh**
+
+
 Re-edited by: **Ngo Van Uc**
 
 # Link
